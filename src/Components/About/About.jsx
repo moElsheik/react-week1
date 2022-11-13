@@ -3,16 +3,16 @@ import React from 'react'
 export default function About() {
   return (
     <div className='bg-success'>
-        <div class="  pt-5 mt-5 ">
-      <h2 class=" pt-5 text-center" >ABOUT</h2>
-      <div class=" container my-5 ">
+        <div className="  pt-5 mt-5 ">
+      <h2 className=" pt-5 text-center" >ABOUT</h2>
+      <div className=" container my-5 ">
       <div className="  d-flex justify-content-center  align-items-center m-4">
         <div className="HLine bg-black"></div>
         <i  className="fa-solid fa-star text-black"></i>
         <div className="HLine bg-black"></div>
       </div>
-        <div class=" row p-5 w-75 m-auto  ">
-            <div class=" col-6 ">
+        <div className=" row p-5 w-75 m-auto  ">
+            <div className=" col-6 ">
               <div>
                 <p>
                     Freelancer is a free bootstrap theme created by Route. The download
@@ -22,7 +22,7 @@ export default function About() {
                   </p>
               </div>
             </div>
-            <div class="  col-6 ">
+            <div className="  col-6 ">
               <div>
                 <p >
                     You can create your own custom avatar for the masthead, change the
