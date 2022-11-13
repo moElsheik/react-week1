@@ -1,0 +1,39 @@
+.homeDiv{
+    height: 100vh;
+    background-color: #1abc9c;
+    margin-top: 50px ;
+   
+}
+
+
+.homeImage{
+    width: 15rem;
+   
+    
+}
+
+.homeDiv h1{
+    font-size: 4rem;
+    color: white;
+    margin: 25px;
+    font-weight: 700;
+}
+
+.homeDiv .HLine{
+   
+    background-color: white;
+ 
+   
+}
+
+.homeDiv .fa-star{
+   
+    color: white;
+
+}
+.homeDiv p{
+    margin: 25px;
+    color: white;
+    font-size: 1.5rem;
+
+}

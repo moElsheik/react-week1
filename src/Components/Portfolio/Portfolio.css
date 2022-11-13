@@ -1,0 +1,27 @@
+h2{
+    font-size: 3rem;
+    line-height: 2.5rem;
+    padding-top: 50px; 
+
+}
+
+
+
+.capt{
+    background-color: rgba(26, 188, 156, 0);
+    
+    font-size: 9rem;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0);
+    transition: all .5s;
+    cursor: pointer;
+
+}
+
+.innerDiv:hover .capt{
+    background-color: rgba(26, 188, 156, .9);
+    color: rgba(255, 255, 255, 1);
+}
+.imagShow{
+z-index: 65465;
+}
